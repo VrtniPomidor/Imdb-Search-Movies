@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/ArsFuturaImdb/app/src/main/res/drawable/baseline_favorite_24.xml" value="0.30462962962962964" />
+        <entry key="..\:/AndroidStudioProjects/ArsFuturaImdb/app/src/main/res/drawable/baseline_favorite_border_24.xml" value="0.30462962962962964" />
+        <entry key="..\:/AndroidStudioProjects/ArsFuturaImdb/app/src/main/res/drawable/baseline_search_24.xml" value="0.30462962962962964" />
+        <entry key="..\:/AndroidStudioProjects/ArsFuturaImdb/app/src/main/res/drawable/colored_progress.xml" value="0.30925925925925923" />
+        <entry key="..\:/AndroidStudioProjects/ArsFuturaImdb/app/src/main/res/drawable/error_image.xml" value="0.30925925925925923" />
+        <entry key="..\:/AndroidStudioProjects/ArsFuturaImdb/app/src/main/res/drawable/loading_indicator.xml" value="0.30925925925925923" />
+        <entry key="..\:/AndroidStudioProjects/ArsFuturaImdb/app/src/main/res/drawable/progress_indicator.xml" value="0.30925925925925923" />
+        <entry key="..\:/AndroidStudioProjects/ArsFuturaImdb/app/src/main/res/layout/activity_favorites.xml" value="0.3183876811594203" />
+        <entry key="..\:/AndroidStudioProjects/ArsFuturaImdb/app/src/main/res/layout/activity_main.xml" value="0.28191489361702127" />
+        <entry key="..\:/AndroidStudioProjects/ArsFuturaImdb/app/src/main/res/layout/activity_movie_details.xml" value="0.26856884057971014" />
+        <entry key="..\:/AndroidStudioProjects/ArsFuturaImdb/app/src/main/res/layout/activity_movie_list.xml" value="0.26856884057971014" />
+        <entry key="..\:/AndroidStudioProjects/ArsFuturaImdb/app/src/main/res/layout/fragment_favorites.xml" value="0.3183876811594203" />
+        <entry key="..\:/AndroidStudioProjects/ArsFuturaImdb/app/src/main/res/layout/fragment_movie_details.xml" value="0.3429454170957775" />
+        <entry key="..\:/AndroidStudioProjects/ArsFuturaImdb/app/src/main/res/layout/fragment_movies.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/ArsFuturaImdb/app/src/main/res/layout/item_movie.xml" value="0.3129528985507246" />
+        <entry key="..\:/AndroidStudioProjects/ArsFuturaImdb/app/src/main/res/layout/item_year.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/ArsFuturaImdb/app/src/main/res/layout/progress.xml" value="0.26856884057971014" />
+        <entry key="..\:/AndroidStudioProjects/ArsFuturaImdb/app/src/main/res/layout/view_app_bar.xml" value="0.3183876811594203" />
+        <entry key="..\:/AndroidStudioProjects/ArsFuturaImdb/app/src/main/res/layout/view_chip.xml" value="0.3129528985507246" />
+        <entry key="..\:/AndroidStudioProjects/ArsFuturaImdb/app/src/main/res/layout/view_movie.xml" value="0.3129528985507246" />
+        <entry key="..\:/AndroidStudioProjects/ArsFuturaImdb/app/src/main/res/layout/view_movie_details.xml" value="0.3129528985507246" />
+        <entry key="..\:/AndroidStudioProjects/ArsFuturaImdb/app/src/main/res/layout/view_search_app_bar.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/ArsFuturaImdb/app/src/main/res/layout/view_year.xml" value="0.3129528985507246" />
+        <entry key="..\:/AndroidStudioProjects/ArsFuturaImdb/app/src/main/res/menu/menu_favorites.xml" value="0.3359375" />
+        <entry key="..\:/AndroidStudioProjects/ArsFuturaImdb/app/src/main/res/menu/menu_movie_details.xml" value="0.17864583333333334" />
+        <entry key="..\:/AndroidStudioProjects/ArsFuturaImdb/app/src/main/res/xml/network_security_config.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

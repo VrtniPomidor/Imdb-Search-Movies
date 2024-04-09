@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ars Futura Imdb</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="something_went_wrong">Something went wrong!</string>
+    <string name="label_retry">Retry</string>
+    <string name="search_movie_hint">Enter movie name</string>
+    <string name="empty_search">No results from search!</string>
+    <string name="empty_favorites">No favorites found!</string>
+    <string name="movie_details_title">Movie Details</string>
+    <string name="movie_list_title">Search</string>
+    <string name="favorites_title">Favorites</string>
+</resources>
